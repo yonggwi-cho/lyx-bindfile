@@ -1,2 +1,2 @@
-# lyx-bindfil
+# lyx-bindfile
 shortcut setting files for LyX
